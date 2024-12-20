@@ -46,6 +46,8 @@ Atualmente, estou a terminar a minha licenciatura de engenharia de software enqu
 <br>
 
 <br>
+<a href="https://www.figma.com/"><img src="https://img.shields.io/badge/Figma-000000.svg?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"></a>
+<a href="https://www.framer.com/"><img src="https://img.shields.io/badge/Framer-000000.svg?style=for-the-badge&logo=framer&logoColor=white" alt="Framer"></a>
 <a href="https://github.com/priyanshumay">
 <img src="https://img.shields.io/badge/vscode-blue.svg?style=for-the-badge&logo=visual-studio-code&labelColor=ffffff&logoColor=blue" alt="vscode">
 </a>
