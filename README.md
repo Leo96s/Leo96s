@@ -1,5 +1,6 @@
 ## About Me👋
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
+
 Olá! Meu nome é **Leonardo Silva**, e sou apaixonado por resolver problemas complexos e criar soluções inovadoras. Estou constantemente a aprender novas ferramentas para melhorar as minhas habilidades.  
 
 Atualmente, estou a terminar a minha licenciatura de engenharia de software enquanto crio projetos pessoais.  
